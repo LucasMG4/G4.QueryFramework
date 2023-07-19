@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "G4.QueryFramework", "G4.QueryFramework.csproj", "{BAB8C46C-2E5A-4CE4-AB9C-7FA7E4CC5D4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G4.QueryTester", "..\G4.QueryTester\G4.QueryTester.csproj", "{BA707A51-8750-4329-BCB2-9B042DF2AE6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAB8C46C-2E5A-4CE4-AB9C-7FA7E4CC5D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB8C46C-2E5A-4CE4-AB9C-7FA7E4CC5D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB8C46C-2E5A-4CE4-AB9C-7FA7E4CC5D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB8C46C-2E5A-4CE4-AB9C-7FA7E4CC5D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA707A51-8750-4329-BCB2-9B042DF2AE6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA707A51-8750-4329-BCB2-9B042DF2AE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA707A51-8750-4329-BCB2-9B042DF2AE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA707A51-8750-4329-BCB2-9B042DF2AE6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09550F8D-8AC0-4AAA-A68B-004B46939E8C}
+	EndGlobalSection
+EndGlobal
