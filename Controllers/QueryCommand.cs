@@ -1,5 +1,4 @@
 ﻿using G4.QueryFramework.Attributes;
-using MySql.Data.MySqlClient;
 
 namespace G4.QueryFramework.Controllers {
     public class QueryCommand : QueryConnection {
